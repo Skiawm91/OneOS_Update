@@ -1,2 +1,2 @@
 # OneOS_Update
-Here is Official OneOS update server, support "4.xx" version OneOS.
+so OneOS 4.xx need Use this repo to check and update. 
